@@ -6,3 +6,6 @@ Here is the list of my current Kaggle projects :
 
   - Ghost-Goblins-Ghouls
   - Integer_sequence_learning
+  - digit-recognizer
+  - poker-rule-induction
+  - Dogs Intelligence and Size
